@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "860367108462",
+    "firebase_url": "https://pocus-app-82836-default-rtdb.firebaseio.com",
+    "project_id": "pocus-app-82836",
+    "storage_bucket": "pocus-app-82836.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860367108462:android:c39f5cdfd5d82b37c8297f",
+        "android_client_info": {
+          "package_name": "com.example.pocus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvsa_Uq3xqsDoO6vTcLGpVl9goINydH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
